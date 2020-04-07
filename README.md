@@ -6,15 +6,15 @@ More specifically i used Rank Based Recommendations, User-User Based Collaborati
 
 ## Project Tasks
 > ### 1.Exploratory Data Analysis
-Before building any recommendation models we nee to explore our data first and see what we can find out from them with a quick look 
+Before building any recommendation models i need to explore the data first and see what i can find out from them with a quick look 
 
 > ### 2.Rank Based Recommendations
 This task is finding out what are the most popular articles based solely on interactions as a factor.<br />
-These are the articles we often recommend to new users.
+These are the articles often recommended to new users.
 
 > ### 3.User-User Based Recommendations
 This is a method of recommendation taking into account 'similar' users based on the articles they have interacted with.<br />
-We find users with a large number of similar articles they have interacted with and based on them, we recommend the user any of the articles that they interacted with, but he didn't.
+I found users with a large number of similar articles they have interacted with and based on them, I recommend the user any of the articles that they interacted with, but he didn't.
 
 > ### 4.Matrix Factorization
 This is a machine learning based method that uses a matrix composed by users and their article interactions(user-item matrix).
